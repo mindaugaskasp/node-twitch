@@ -1,6 +1,6 @@
 {
   "name": "@mindaugaskasp/node-twitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "twitch api integration",
   "main": "index.js",
   "scripts": {

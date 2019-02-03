@@ -1,1 +1,1 @@
-module.exports = require('twitch');
+module.exports = require('./twitch');
